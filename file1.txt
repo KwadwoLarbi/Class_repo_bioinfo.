@@ -1,1 +1,3 @@
 I have created fastqc files for the bird sequence samples 
+
+Add the file to the github page
